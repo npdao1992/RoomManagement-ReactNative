@@ -23,3 +23,6 @@ Mở 2 tab VSCode
 - Tab 2 chạy Proj_QLPT_ProjWebApiServer : npm start
 - Kiểm tra IP máy (ipconfig) -> Đổi IP khi chạy (trang config)
 - Mở mongooDB -> Connect
+
+
+.....
